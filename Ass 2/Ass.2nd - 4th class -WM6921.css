@@ -1,0 +1,26 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+h2 {
+    color: rgb(105, 91, 202);
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 28px
+}
+
+table {
+    color: white;;
+    border-style: solid;
+    background-color: rgb(105, 91, 202);
+    border-color: rgb(105, 30, 202);
+}
+
+* {
+    font-family: Calibri;
+}
+

@@ -1,0 +1,169 @@
+.header {
+    display: inline-block;
+}
+
+.top {
+    position: fixed;
+    top: 75%;
+    bottom: 15%;
+    left: 90%;
+    right: 10%;
+    width: 7%;
+
+}
+
+header {
+    background-color: rgb(49, 109, 195);
+    text-align: center;
+    color: white;
+}
+
+button {
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 2px;
+    color: green;
+    box-shadow: none;
+    font-size: 8px;
+}
+
+p.header {
+    margin-right: 200px;
+}
+
+.saylani {
+    padding: 0px 200px 0px 200px;
+    width: 600px;
+    margin: 8px 0px 8px 0px;
+}
+
+.mainimage {
+    min-width: 100%;
+    max-width: 100%;
+}
+
+.line {
+    text-align: center;
+    margin: 10px 0px 10px 0px;
+    padding: 10px 0px 10px 0px;
+    color: white;
+}
+
+.divline {
+    background-color: rgb(49, 109, 195);
+    margin: 10px 0px 10px 0px
+}
+
+.divintro {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.intro {
+    color: rgb(62, 94, 138);
+}
+
+.duction {
+    color: #427900;
+}
+
+.intropara {
+    text-align: justify;
+    padding: 30px 100px 30px 100px;
+}
+
+.numrow {
+    display: inline-block;
+    text-align: center;
+    margin: 39px;
+    padding: 50px 0px;
+    font-size: 50px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bluerow {
+    background-color: rgb(12, 101, 224);
+}
+
+.rowimage {
+    width: 17%;
+}
+
+.rowpara {
+    font-size: 15px;
+}
+
+.month {
+    color: #00FD00;
+}
+
+.what {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.doing {
+    color: #427900;
+}
+
+.we {
+    color: rgb(49, 109, 195);
+}
+
+.firstrow {
+    display: inline-block;
+    text-align: center;
+    margin: 9px;
+    width: 31%;
+    padding: 40px 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 22px;
+    color: rgb(49, 109, 195);
+    /* box-shadow: 0px 3px 3px 3px lightgray; */
+    -moz-box-shadow: 7px 15px 20px 8px #ccc;
+    -webkit-box-shadow: 7px 15px 20px 8px #ccc;
+    box-shadow: 7px 15px 20px 8px #ccc;
+}
+
+.sixboxes {
+    margin: 50px;
+}
+
+.MP, .UE, .fourboxes, .box {
+    display: inline-block;
+}
+
+.MP {
+    width: 55%;
+    margin: 50px;
+}
+
+.UE {
+    width: 25%;
+}
+
+.box {
+    width: 40%;
+    padding: 15px;
+    margin: 12px;
+    background-color: rgb(235, 235, 235);
+}
+
+.boxdetails {
+    padding: 20px;
+    font-weight: bolder;
+}
+
+.mission {
+    margin: 10px;
+}
+
+.events, .MP {
+    color: rgb(49, 109, 195);
+}
+
+.eventdetails {
+    color: rgb(159, 160, 161);
+}
